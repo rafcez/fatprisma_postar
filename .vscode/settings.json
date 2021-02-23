@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bde4cbbe-b46d-4555-8bb3-0bd62279128b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/prismaBackend",
+    "appService.deploySubpath": "."
+}
